@@ -5,11 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./index.js",
-<<<<<<< HEAD
-    "start": "node ./index.js"
-=======
     "start": "node index.js"
->>>>>>> 18ae5268c017817426c4278e6cf0108eaee385c4
   },
   "author": "Lucian Langorta",
   "license": "ISC",
